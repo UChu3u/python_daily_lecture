@@ -4,5 +4,5 @@
 #day1
 
 
-1. [jupyer notebook](1-01JupyterNotebook.ipynb)
+1. [jupyter notebook](1-01JupyterNotebook.ipynb)
 2. latext
