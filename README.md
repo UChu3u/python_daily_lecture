@@ -4,5 +4,7 @@
 #day1
 
 
-1. [jupyter notebook](1-01JupyterNotebook.ipynb)
+1. [jupyter notebook 강의 실습](1-01JupyterNotebook.ipynb)
 2. latext
+
+#day2
