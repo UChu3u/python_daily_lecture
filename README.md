@@ -4,8 +4,8 @@
 # day1 링크 거는 방법
 
 1. 첫 번째 방법
-  1.  [jupyter notebook 강의 실습](1-01JupyterNotebook.ipynb)
-  2. 이미지 테스트: [test.md](test.md)
+[jupyter notebook 강의 실습](1-01JupyterNotebook.ipynb)
+이미지 테스트: [test.md](test.md)
 
 2. 두 번째 방법
 a link:
